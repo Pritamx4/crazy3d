@@ -278,6 +278,12 @@ div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3145s5lkxn6ji6xstqob653gnn7m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true"/>
 </p>
 
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3145s5lkxn6ji6xstqob653gnn7m&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true"/>
+</p>
+
+
 ---
 
 ## 🎭 Fun Zone
