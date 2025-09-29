@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="https://open.spotify.com/user/3145s5lkxn6ji6xstqob653gnn7m" target="_blank" rel="noopener">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3145s5lkxn6ji6xstqob653gnn7m&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false"
-         alt="Pritam's Spotify profile — currently playing"
-         style="max-width:100%;width:640px;height:auto;border-radius:8px;">
-  </a>
-</p>
-
-
-
 <!--  - 👋 Hi, I’m @Pritamx4
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning javascript
